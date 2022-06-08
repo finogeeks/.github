@@ -14,4 +14,15 @@
 
 - 产品官网：[www.finclip.com](https://www.finclip.com)
 - 产品博客：[www.finclip.com/blog/](https://www.finclip.com/blog/)
+- 开发文档：[www.finclip.com/mop/document/](https://www.finclip.com/mop/document/)
 - 产品手册：[design.finclip.com](https://design.finclip.com)
+
+## 💰 版本说明
+
+为了帮助更多开发者更好的体验，我们还分别提供了 **「社区版」，「SaaS 版」和「企业版（含企业订阅版）」** 分别帮助个人与企业用户根据自身需要了解产品，您可以[点击这里](https://www.finclip.com/pricing/)查看不同版本之间的区别与常见问题。
+
+## ⛴ 商务洽谈
+
+如果您希望在已有业务中落地 FinClip 小程序管理平台或有其他商务事宜咨询，可以致电 **400-066-0021** 或 **0755-86967467** 联系我们。
+
+我们的[商务经理](mailto:contact@finogeeks.com)将会全力为您提供满意的答复，如果您有对于产品相关的使用疑惑或建议，也可以与我们的[产品同事](mailto:product@finogeeks.com)取得联系。
