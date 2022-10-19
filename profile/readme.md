@@ -28,4 +28,4 @@
 我们的[商务经理](mailto:contact@finogeeks.com)将会全力为您提供满意的答复，如果您有对于产品相关的使用疑惑或建议，也可以与我们的[产品同事](mailto:product@finogeeks.com)取得联系。
 
 ## 🌏 English Version
-You can click here to view our [English version](/readme_en.md) of the introduction.
+You can click here to view our [English version](https://github.com/finogeeks/.github/blob/main/profile/readme_en.md) of the introduction.
