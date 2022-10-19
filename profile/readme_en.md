@@ -16,10 +16,10 @@ FinoGeeks is a member of the W3C and a participant of the W3C Mini-Apps workgrou
  
 FinoGeeks has filed 30+ patents and won various awards.
 
-## ⛴ Business negotiation
+## ⛴ Business Negotiation
 You can contact us at **86-755-86967467** or [write mail](mailto:contact@finogeeks.com). If you have any doubts or suggestions about the use of the product, you can also mail our [Product colleague](mailto:product@finogeeks.com).
 
-## 🍿 Learn more
+## 🍿 Learn More
 You can visit Finogeeks's homesite or product site to learn about our daily products and related content.
 
 - Finogeeks Site [www.finogeeks.com](https://www.finogeeks.com)
