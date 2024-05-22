@@ -1,6 +1,6 @@
 # Hey, this is Finogeeks 👋
 
-![image.png](https://www.finogeeks.com/static/media/pc_banner.264632db.png)
+![](https://www.finclip.com/mop/document/assets/img/ftjk2024.f8e3fa78.jpg)
 
 凡泰极客成立于 2017 年，致力于帮助企业在**数据安全、隐私保护**前提下建设自主开放的数字生态，通过其独有的兼容主流互联网小程序技术的企业级云原生移动应用数字引擎为企业数字化提供基础平台。
 
