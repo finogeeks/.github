@@ -24,4 +24,4 @@ You can visit Finogeeks's homesite or product site to learn about our daily prod
 
 - Finogeeks Site [www.finogeeks.com](https://www.finogeeks.com)
 - FinClip Site(Chinese) [www.finclip.com](https://www.finclip.com)
-- FinClip Site(English) [www.finclip.com/en](https://www.finclip.com/en)
+- FinClip Site(English) [https://super-apps.ai/](https://super-apps.ai/)
