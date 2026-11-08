@@ -16,6 +16,7 @@
 - 产品博客：[www.finclip.com/blog/](https://www.finclip.com/blog/)
 - 开发文档：[www.finclip.com/mop/document/](https://www.finclip.com/mop/document/)
 - 产品手册：[design.finclip.com](https://design.finclip.com)
+- FinAI OS：[finaios.ai](https://finaios.ai/zh-hans/)
 
 ## 💰 版本说明
 

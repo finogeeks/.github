@@ -16,6 +16,10 @@ FinoGeeks is a member of the W3C and a participant of the W3C Mini-Apps workgrou
  
 FinoGeeks has filed 30+ patents and won various awards.
 
+## 🍿 Learn more
+- FinAI OS: [finaios.ai](https://finaios.ai/en/)
+- FinClip: [www.finclip.com](https://www.finclip.com)
+
 ## ⛴ Business Negotiation
 You can contact us at **86-755-86967467** or [write mail](mailto:contact@finogeeks.com). If you have any doubts or suggestions about the use of the product, you can also mail our [Product colleague](mailto:product@finogeeks.com).
 
